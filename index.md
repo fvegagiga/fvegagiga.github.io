@@ -63,6 +63,7 @@ Gestión administrativa, operaciones de caja, atención al cliente y asesoramien
 `2017`
 __UNED__ Experto Universitario  
 *“Programación de Aplicaciones Móviles para Dispositivos Android”*  
+(actualmente en curso)
 
 `2007-09`
 __Asimag__ Técnico Superior en Prevención de Riesgos Laborales  
@@ -73,7 +74,7 @@ __Universidad de León__ Máster en Dirección de Empresas
 *MBA*
 
 `2000-04`
-__Universidad de León__ Ingeniería Superior Informática.
+__Universidad de León__ Ingeniería Superior en Informática.
 
 ## Habilidades técnicas
 
@@ -86,16 +87,16 @@ Servidor Web: Apache  <a class="fa fa-file-o" target="_blank" href="http://www.d
 Git / Github  
 UNIX  
 Dibujo vectorial: Illustrator / Inkscape  <a class="fa fa-file-o" target="_blank" href="/assets/Illustrator_MC.png"></a><br />
-Dibujo a mano alzada (adjuntar link a porfolio)  
+Dibujo a mano alzada (portfolio)  
 
 
 ## Proyectos
 
 ### Aplicaciones móviles
 
-__Data Center Planner__  
-Desarrollo de una aplicación multiplataforma para dispositivos móviles. Se encuentra publicada tanto en la Google Play (Android), como en la Apple Store (iOS).
-Esta desarrollada integramente en Lua bajo la plataforma Corona SDK.
+__Data Center Planner__ Plataforma de gestión y control de infraestructuras IT.  
+Aplicación multiplataforma (soportada tanto en dispositivos móviles como en pc), desarrollada integramente con Lua, bajo el framework Corona SDK.  
+Actualmente está publicada tanto en la Google Play (Android), como en la Apple Store (iOS).  
 
 * <i class="fa fa-android"></i> <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dcpapp.datacenterplanner">Android</a><br />
 
@@ -103,9 +104,7 @@ Esta desarrollada integramente en Lua bajo la plataforma Corona SDK.
 
 
 ### Desarrollo web
-Página web del proyecto *Data Center Planner*
-
-* <i class="fa fa-link"></i> <a target="_blank" href="http://dcpapp.com/">www.dcpapp.com</a><br />
+Página web del proyecto *<a target="_blank" href="http://dcpapp.com/">Data Center Planner</a><br />*
 
 
 ## Links
