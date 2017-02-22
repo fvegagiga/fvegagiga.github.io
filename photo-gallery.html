@@ -1,0 +1,18 @@
+---
+layout: gallery
+---
+
+        <h1><strong>Dibujo artístico</strong></h1>
+      </div>
+	</header>
+
+<div class="content">
+
+{% assign sorted_gallery = site.photo_gallery| sort: 'position' %}
+<ul class="photo-gallery">
+  {% for image in sorted_gallery %}
+    <li>
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+    </li>
+  {% endfor %}
+</ul>

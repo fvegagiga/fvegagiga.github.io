@@ -1,1 +1,18 @@
-markdown:   kramdown
+
+---
+title: Fernando Vega Giganto
+timezone: Europe/Madrid
+collections:
+  photo_gallery:
+    title: Photo_gallery
+    output: false
+  cevug_gallery:
+    title: Cevug_gallery
+    output: false
+  marketingapps_gallery:
+    title: Marketingapps_gallery
+    output: true
+  illustrator_gallery:
+    title: illustrator_gallery
+    output: false
+---

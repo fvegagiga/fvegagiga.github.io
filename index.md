@@ -80,14 +80,14 @@ __Universidad de León__ Ingeniería Superior en Informática.
 
 Lenguajes de programación: *Java, Cobol, Lua*  
 Desarrollo de aplicaciones multiplataforma - *Corona SDK*  
-Posicionamiento SEO (link - Universidad de Granada)  
-Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="/assets/MktnVideojApps.png"></a><br />
+Posicionamiento SEO <a class="fa fa-file-o" target="_blank" href="seo.html"></a><br />
+Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="marketingapps.html"></a><br />c
 Desarrollo web: HTML / CSS / PHP / Javascript  
 Servidor Web: Apache  <a class="fa fa-file-o" target="_blank" href="http://www.digitallearning.es/certificados/477435141820c920.html"></a><br />
 Git / Github  
 UNIX  
-Dibujo vectorial: Illustrator / Inkscape  <a class="fa fa-file-o" target="_blank" href="/assets/Illustrator_MC.png"></a><br />
-Dibujo a mano alzada (portfolio)  
+Dibujo vectorial: Illustrator / Inkscape  <a class="fa fa-file-o" target="_blank" href="illustrator.html"></a><br />
+Dibujo artístico <a class="fa fa-picture-o" href="photo-gallery.html"></a><br />  
 
 
 ## Proyectos
