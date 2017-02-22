@@ -81,10 +81,10 @@ __Universidad de León__ Ingeniería Superior en Informática.
 Lenguajes de programación: *Java, Cobol, Lua*  
 Desarrollo de aplicaciones multiplataforma - *Corona SDK*  
 Posicionamiento SEO <a class="fa fa-file-o" target="_blank" href="seo.html"></a><br />
-Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="marketingapps.html"></a><br />c
+Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="marketingapps.html"></a><br />
 Desarrollo web: HTML / CSS / PHP / Javascript  
 Servidor Web: Apache  <a class="fa fa-file-o" target="_blank" href="http://www.digitallearning.es/certificados/477435141820c920.html"></a><br />
-Git / Github  
+Git / Github    <a class="fa fa-github" target="_blank" style="text-decoration:none" href="http://github.com/fvegagiga"></a><br /> 
 UNIX  
 Dibujo vectorial: Illustrator / Inkscape  <a class="fa fa-file-o" target="_blank" href="illustrator.html"></a><br />
 Dibujo artístico <a class="fa fa-picture-o" href="photo-gallery.html"></a><br />  
