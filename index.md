@@ -95,7 +95,7 @@ Dibujo artístico <a class="fa fa-picture-o" href="photo-gallery.html"></a><br /
 ### Aplicaciones móviles
 
 __Data Center Planner__ Plataforma de gestión y control de infraestructuras IT.  
-Aplicación multiplataforma (soportada tanto en dispositivos móviles como en pc), desarrollada integramente con Lua, bajo el framework Corona SDK.  
+Aplicación multiplataforma (soportada tanto en dispositivos móviles como en PC y Mac), desarrollada integramente con Lua, bajo el framework Corona SDK.  
 Actualmente está publicada tanto en la Google Play (Android), como en la Apple Store (iOS).  
 
 * <i class="fa fa-android"></i> <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dcpapp.datacenterplanner">Android</a><br />
