@@ -19,7 +19,7 @@ Ingeniero Informático y MBA
 Especialista en sistemas de información enfocados a la aplicación de tecnología para apoyar las áreas
 de ventas, finanzas y operaciones.  
 A lo largo de 11 años he desempeñado diferentes funciones en una entidad bancaria relacionadas con
-las IT, como son programador, analista de aplicaciones y operador de producción.  
+las IT, como son programador, analista de aplicaciones y operador batch (mainframe / distribuidos).  
 Mis puntos fuertes incluyen el control y gestión de sistemas, desarrollo de aplicaciones departamentales en diferentes ámbitos (inmovilizado, negocio internacional, operaciones y servicios) y el diseño y administración de bases de datos relacionales. 
 
 
@@ -34,9 +34,9 @@ dispositivos Android.
 
 `2012-16` 
 __Caja España - Duero__ Operador informático  
-• Supervisión de la ejecución de los procesos diarios correspondientes al batch de la entidad.  
-• Reporte y resolución de incidencias.  
-• Participación en la integración en la plataforma de UNICAJA, debido a la fusión entre las entidades.  
+• Monitorización, conexión a máquinas, gestión de incidencias / cambios, gestión del batch... (24x7)  
+• Participación en la integración con la plataforma de UNICAJA, debido a la fusión entre ambas entidades.  
+• Control-M  
 
 `2006-11`
 __Caja España__ Analista funcional de aplicaciones  
@@ -88,6 +88,7 @@ HTML / CSS / Javascript / PHP <a class="fa fa-file-o" target="_blank" href="phpt
 
 ### Otros ###  
 UNIX  
+Control-M  
 Desarrollo de aplicaciones multiplataforma - *Corona SDK*  
 Posicionamiento SEO <a class="fa fa-file-o" target="_blank" href="seo.html"></a><br />
 Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="marketingapps.html"></a><br /> 
