@@ -1,0 +1,18 @@
+---
+layout: gallery
+---
+
+        <h1>Desarrollo web: <strong>PHP</strong></h1>
+      </div>
+	</header>
+
+<div class="content">
+
+{% assign sorted_gallery = site.php_gallery| sort: 'position' %}
+<ul class="title-gallery">
+  {% for image in sorted_gallery %}
+    <li>
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+    </li>
+  {% endfor %}
+</ul>

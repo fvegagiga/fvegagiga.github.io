@@ -15,4 +15,10 @@ collections:
   illustrator_gallery:
     title: illustrator_gallery
     output: false
+  java_gallery:
+    title: Java_gallery
+    output: false
+  php_gallery:
+    title: PHP_gallery
+    output: false
 ---

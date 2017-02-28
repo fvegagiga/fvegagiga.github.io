@@ -78,14 +78,21 @@ __Universidad de León__ Ingeniería Superior en Informática.
 
 ## Habilidades técnicas
 
-Lenguajes de programación: *Java, Cobol, Lua*  
+### Lenguajes de programación ###  
+• Java <a class="fa fa-file-o" target="_blank" href="java.html"></a><br/>
+• Cobol  
+• Lua    
+
+### Desarrollo web ###  
+HTML / CSS / Javascript / PHP <a class="fa fa-file-o" target="_blank" href="phptitles.html"></a><br />
+
+### Otros ###  
+UNIX  
 Desarrollo de aplicaciones multiplataforma - *Corona SDK*  
 Posicionamiento SEO <a class="fa fa-file-o" target="_blank" href="seo.html"></a><br />
-Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="marketingapps.html"></a><br />
-Desarrollo web: HTML / CSS / PHP / Javascript  
+Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="marketingapps.html"></a><br /> 
 Servidor Web: Apache  <a class="fa fa-file-o" target="_blank" href="http://www.digitallearning.es/certificados/477435141820c920.html"></a><br />
 Git / Github    <a class="fa fa-github" target="_blank" style="text-decoration:none" href="http://github.com/fvegagiga"></a><br /> 
-UNIX  
 Dibujo vectorial: Illustrator / Inkscape  <a class="fa fa-file-o" target="_blank" href="illustrator.html"></a><br />
 Dibujo artístico <a class="fa fa-picture-o" href="photo-gallery.html"></a><br />  
 
