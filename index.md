@@ -95,7 +95,7 @@ Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="ma
 Servidor Web: Apache  <a class="fa fa-file-o" target="_blank" href="http://www.digitallearning.es/certificados/477435141820c920.html"></a><br />
 Git / Github    <a class="fa fa-github" target="_blank" style="text-decoration:none" href="http://github.com/fvegagiga"></a><br /> 
 Dibujo vectorial: Illustrator / Inkscape  <a class="fa fa-file-o" target="_blank" href="illustrator.html"></a><br />
-Dibujo artístico <a class="fa fa-picture-o" href="photo-gallery.html"></a><br />  
+Dibujo artístico <a class="fa fa-picture-o" target="_blank" href="photo-gallery.html"></a><br />  
 
 
 ## Proyectos
