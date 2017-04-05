@@ -84,7 +84,8 @@ __Universidad de León__ Ingeniería Superior en Informática.
 • Lua    
 
 ### Desarrollo web ###  
-HTML / CSS / Javascript / PHP <a class="fa fa-file-o" target="_blank" href="phptitles.html"></a><br />
+HTML / CSS / Javascript / PHP <a class="fa fa-file-o" target="_blank" href="phptitles.html"></a>  
+Maquetación web responsive (Bootstrap)  
 
 ### Otros ###  
 UNIX  
