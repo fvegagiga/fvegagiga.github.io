@@ -17,9 +17,9 @@ Ingeniero Informático y MBA
 ## Perfil profesional
 
 Especialista en sistemas de información enfocados a la aplicación de tecnología para apoyar las áreas de ventas, finanzas y operaciones.  
-Ofrezco mi experiencia de más de 11 años de trabajo en el sector bancario, a lo largo de los cuales he desempeñado diferentes funciones técnicas que me han permitido obtener una visión global del proceso de negocio.
-Mis puntos fuertes incluyen el análisis de requisitos, diseño, desarrollo y prueba de software en diferentes ámbitos (inmovilizado, negocio internacional, operaciones y servicios).
-Apasionado de las nuevas tecnologías y el desarrollo de aplicaciones móviles.
+Ofrezco mi experiencia de más de 11 años en el sector bancario, a lo largo de los cuales he desempeñado diferentes funciones técnicas que me han permitido obtener una visión global del proceso de negocio.  
+Mis puntos fuertes incluyen el análisis de requisitos, diseño, desarrollo y prueba de software en diferentes ámbitos (inmovilizado, negocio internacional, operaciones y servicios).  
+Apasionado de las nuevas tecnologías y el desarrollo de aplicaciones móviles.  
 En continua formación y con el objetivo de mejorar cada día.
 
 
@@ -85,6 +85,7 @@ __Universidad de León__ Ingeniería Superior en Informática.
 ### Desarrollo web ###  
 HTML / CSS / Javascript / PHP <a class="fa fa-file-o" target="_blank" href="phptitles.html"></a>  
 Maquetación web Responsive (Bootstrap)  
+Markdown  
 
 ### Otros ###  
 Desarrollo de Apps Móviles con iOS - CICE (Actualmente en curso)  
