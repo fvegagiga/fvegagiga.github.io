@@ -77,7 +77,7 @@ __Universidad de León__ Ingeniería Superior en Informática.
 ## Habilidades técnicas
 
 ### Lenguajes de programación ###  
-• Java <a class="fa fa-file-o" target="_blank" href="java.html"></a><br/>
+• Java <!-- <a class="fa fa-file-o" target="_blank" href="java.html"></a><br/> -->  
 • Cobol  
 • Lua    
 
