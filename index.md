@@ -16,17 +16,16 @@ Ingeniero Informático y MBA
 
 ## Perfil profesional
 
-Especialista en sistemas de información enfocados a la aplicación de tecnología para apoyar las áreas
-de ventas, finanzas y operaciones.  
-A lo largo de 11 años he desempeñado diferentes funciones en una entidad bancaria relacionadas con
-las IT, como son programador, analista de aplicaciones y operador batch (mainframe / distribuidos).  
-Mis puntos fuertes incluyen el control y gestión de sistemas, desarrollo de aplicaciones departamentales en diferentes ámbitos (inmovilizado, negocio internacional, operaciones y servicios) y el diseño y administración de bases de datos relacionales. 
+Especialista en sistemas de información enfocados a la aplicación de tecnología para apoyar las áreas de ventas, finanzas y operaciones.  
+Ofrezco mi experiencia de más de 11 años de trabajo en el sector bancario, a lo largo de los cuales he desempeñado diferentes funciones técnicas que me han permitido obtener una visión global del proceso de negocio.
+Mis puntos fuertes incluyen el análisis de requisitos, diseño, desarrollo y prueba de software en diferentes ámbitos (inmovilizado, negocio internacional, operaciones y servicios).
+Apasionado de las nuevas tecnologías y el desarrollo de aplicaciones móviles.
+En continua formación y con el objetivo de mejorar cada día.
 
 
 ## Actualmente
 
-Buscando nuevos retos profesionales relacionados con el desarrollo de aplicaciones móviles para
-dispositivos Android.
+Buscando nuevos retos profesionales como desarrollador Android / iOS.
 
 
 
@@ -39,13 +38,13 @@ __Caja España - Duero__ Operador informático
 • Control-M  
 
 `2006-11`
-__Caja España__ Analista funcional de aplicaciones  
+__Caja España__ Analista funcional  
 Desarrollo de nuevas aplicaciones, así como la actualización y mejorar de las ya existentes.  
 Principales logros:  
 • Negocio Internacional: aplicación de remesas y créditos documentarios.  
 • Inmovilizado: mantenimiento y actualización de la aplicación departamental.  
 • Tesorería: desarrollo e implantación del sistema Target2.  
-• Proyecto REHOSTING. Proyecto de migración del Core Banking de la entidad de DB2 a Oracle, así
+• Proyecto REHOSTING: Proyecto de migración del Core Banking de la entidad de DB2 a Oracle, así
 como del Z/OS de IBM a LINUX.  
 
 `2005-06`
@@ -63,7 +62,6 @@ Gestión administrativa, operaciones de caja, atención al cliente y asesoramien
 `2017`
 __UNED__ Experto Universitario  
 *“Programación de Aplicaciones Móviles para Dispositivos Android”*  
-(actualmente en curso)
 
 `2007-09`
 __Asimag__ Técnico Superior en Prevención de Riesgos Laborales  
@@ -80,22 +78,25 @@ __Universidad de León__ Ingeniería Superior en Informática.
 
 ### Lenguajes de programación ###  
 • Java <a class="fa fa-file-o" target="_blank" href="java.html"></a><br/>
+• Objective-C  
 • Cobol  
 • Lua    
 
 ### Desarrollo web ###  
 HTML / CSS / Javascript / PHP <a class="fa fa-file-o" target="_blank" href="phptitles.html"></a>  
-Maquetación web responsive (Bootstrap)  
+Maquetación web Responsive (Bootstrap)  
 
 ### Otros ###  
-UNIX  
-Control-M  
+Desarrollo de Apps Móviles con iOS - CICE (Actualmente en curso)  
 Desarrollo de aplicaciones multiplataforma - *Corona SDK*  
 Posicionamiento SEO <a class="fa fa-file-o" target="_blank" href="seo.html"></a><br />
 Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="marketingapps.html"></a><br /> 
 Servidor Web: Apache  <a class="fa fa-file-o" target="_blank" href="http://www.digitallearning.es/certificados/477435141820c920.html"></a><br />
 Git / Github    <a class="fa fa-github" target="_blank" style="text-decoration:none" href="http://github.com/fvegagiga"></a><br /> 
 Gestión de proyectos con metodologías Ágiles y enfoques Lean  
+Arquitecto de soluciones Amazon Web Services y Administrador de Sysops <!-- <a class="fa fa-file-o" target="_blank" href="aws.html"></a><br /> -->  
+UNIX  
+Control-M  
 Dibujo vectorial: Illustrator / Inkscape  <a class="fa fa-file-o" target="_blank" href="illustrator.html"></a><br />
 Dibujo artístico <a class="fa fa-picture-o" target="_blank" href="photo-gallery.html"></a><br />  
 
