@@ -78,7 +78,6 @@ __Universidad de León__ Ingeniería Superior en Informática.
 
 ### Lenguajes de programación ###  
 • Java <a class="fa fa-file-o" target="_blank" href="java.html"></a><br/>
-• Objective-C  
 • Cobol  
 • Lua    
 
@@ -107,8 +106,7 @@ Dibujo artístico <a class="fa fa-picture-o" target="_blank" href="photo-gallery
 ### Aplicaciones móviles
 
 __Data Center Planner__ Plataforma de gestión y control de infraestructuras IT.  
-Aplicación multiplataforma (soportada tanto en dispositivos móviles como en PC y Mac), desarrollada integramente con Lua, bajo el framework Corona SDK.  
-Actualmente está publicada tanto en la Google Play (Android), como en la Apple Store (iOS).  
+Aplicación multiplataforma (soportada tanto en dispositivos móviles como en PC y Mac), desarrollada integramente con Corona SDK (Lua).  
 
 * <i class="fa fa-android"></i> <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dcpapp.datacenterplanner">Android</a><br />
 
