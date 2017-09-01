@@ -16,20 +16,29 @@ Ingeniero Informático y MBA
 
 ## Perfil profesional
 
-Especialista en sistemas de información enfocados a la aplicación de tecnología para apoyar las áreas de ventas, finanzas y operaciones.  
-Ofrezco mi experiencia de más de 11 años en el sector bancario, a lo largo de los cuales he desempeñado diferentes funciones técnicas que me han permitido obtener una visión global del proceso de negocio.  
-Mis puntos fuertes incluyen el análisis de requisitos, diseño, desarrollo y prueba de software en diferentes ámbitos (inmovilizado, negocio internacional, operaciones y servicios).  
-Apasionado de las nuevas tecnologías y el desarrollo de aplicaciones móviles.  
-En continua formación y con el objetivo de mejorar cada día.
+A lo largo de 11 años he desempeñado diferentes funciones en una __entidad bancaria__, relacionadas con el análisis, desarrollo y diseño de software.  
+Mis puntos fuertes incluyen el control y gestión de sistemas, desarrollo de aplicaciones departamentales en diferentes ámbitos (inmovilizado, negocio internacional, operaciones y servicios) y el diseño y administración de bases de datos relacionales.  
+Gracias a la experiencia laboral adquirida, y con la intención de redirigir mi carrera profesional, he enfocado mis esfuerzos en los últimos meses a recibir una formación orientada a una de mis pasiones: el __desarrollo de aplicaciones para dispositivos móviles__.  
+Con este fin, he realizado diferentes actividades formativas, en las que he podido estudiar en profundidad las dos principales plataformas existentes: __Android e iOS__.
 
 
 ## Actualmente
 
-Buscando nuevos retos profesionales como desarrollador Android / iOS.
+Buscando __nuevos retos__ profesionales como desarrollador __iOS__
 
 
 
 ## Experiencia
+
+`2017`
+__NWC10__ iOS Developer  
+Prácticas en empresa dedicada al asesoramiento e implantación para la renovación digital de sus clientes, de 150 horas, relacionadas con el curso de "Desarrollo de Apps Móviles con iOS"  
+• Lenguajes Swift 3 / Objective-C  
+• Resolución de bugs y desarrollo de nuevas funcionalidades en distintas aplicaciones (entorno Xcode)  
+• Comunicaciones con servidores web  
+• Control de versiones: Git / Bitbucket  
+• Aplicaciones en las que he colaborado: “100Thanks”, “Muchacomida” (entre otras)  
+
 
 `2012-16` 
 __Caja España - Duero__ Operador informático  
@@ -74,9 +83,16 @@ __Universidad de León__ Máster en Dirección de Empresas
 `2000-04`
 __Universidad de León__ Ingeniería Superior en Informática.
 
+## Formación no reglada
+
+`2017`
+__Academia CICE__ 
+*“Desarrollo de Apps Móviles con iOS”*  
+
 ## Habilidades técnicas
 
 ### Lenguajes de programación ###  
+• Swift / Objective-C  
 • Java <!-- <a class="fa fa-file-o" target="_blank" href="java.html"></a><br/> -->  
 • Cobol  
 • Lua    
