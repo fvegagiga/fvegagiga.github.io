@@ -16,15 +16,15 @@ Ingeniero Informático y MBA
 
 ## Perfil profesional
 
-A lo largo de 11 años he desempeñado diferentes funciones en una __entidad bancaria__, relacionadas con el análisis, desarrollo y diseño de software.  
-Mis puntos fuertes incluyen el control y gestión de sistemas, desarrollo de aplicaciones departamentales en diferentes ámbitos (inmovilizado, negocio internacional, operaciones y servicios) y el diseño y administración de bases de datos relacionales.  
-Gracias a la experiencia laboral adquirida, y con la intención de redirigir mi carrera profesional, he enfocado mis esfuerzos en los últimos meses a recibir una formación orientada a una de mis pasiones: el __desarrollo de aplicaciones para dispositivos móviles__.  
-Con este fin, he realizado diferentes actividades formativas, en las que he podido estudiar en profundidad las dos principales plataformas existentes: __Android e iOS__.
-
+A lo largo de 11 años he desempeñado diferentes funciones en una entidad bancaria relacionadas con el __desarrollo, análisis y diseño de software__: core banking y adaptación a las interfaces web y móvil.  
+Con la experiencia adquirida en este ámbito, en el año 2016 decido poner fin a esta etapa profesional y especializarme en el desarrollo de aplicaciones para dispositivos de _Apple_ (__macOS, iOS, watchOS__).  
+Orientación a las __buenas prácticas__ de desarrollo: “Clean Code”, principios SOLID, patrones de diseño.  
+Pasión por la formación continua y no dejar de aprender.  
+Entre otras cualidades, he desarrollado habilidades como el trabajo en equipo, gestión de proyectos, proactividad y una buena capacidad resolutiva.
 
 ## Actualmente
 
-Buscando __nuevos retos__ profesionales como desarrollador __iOS__
+Buscando __nuevos retos__ profesionales como __desarrollador iOS__
 
 
 
@@ -32,19 +32,19 @@ Buscando __nuevos retos__ profesionales como desarrollador __iOS__
 
 `2017`
 __NWC10__ iOS Developer  
-Prácticas en empresa dedicada al asesoramiento e implantación para la renovación digital de sus clientes, de 150 horas, relacionadas con el curso de "Desarrollo de Apps Móviles con iOS"  
-• Lenguajes Swift 3 / Objective-C  
-• Resolución de bugs y desarrollo de nuevas funcionalidades en distintas aplicaciones (entorno Xcode)  
-• Comunicaciones con servidores web  
+Prácticas en empresa dedicada al asesoramiento e implantación para la renovación digital de sus clientes  
+• Lenguajes Swift / Objective-C (entorno Xcode)  
+• Desarrollo evolutivo y correctivo  
+• Uso de APIs REST (HTTP y JSON)  
 • Control de versiones: Git / Bitbucket  
 • Aplicaciones en las que he colaborado: “100Thanks”, “Muchacomida” (entre otras)  
 
 
 `2012-16` 
 __Caja España - Duero__ Operador informático  
-• Monitorización, conexión a máquinas, gestión de incidencias / cambios, gestión del batch... (24x7)  
+• Monitorización (Control-M), conexión a máquinas, gestión de incidencias / cambios, gestión del batch... (24x7)  
+• Control y gestión de la plataforma de envío de notificaciones y alertas a dispositivos móviles.  
 • Participación en la integración con la plataforma de UNICAJA, debido a la fusión entre ambas entidades.  
-• Control-M  
 
 `2006-11`
 __Caja España__ Analista funcional  
@@ -103,7 +103,6 @@ Maquetación web Responsive (Bootstrap)
 Markdown  
 
 ### Otros ###  
-Desarrollo de Apps Móviles con iOS - CICE (Actualmente en curso)  
 Desarrollo de aplicaciones multiplataforma - *Corona SDK*  
 Posicionamiento SEO <a class="fa fa-file-o" target="_blank" href="seo.html"></a><br />
 Marketing de videojuegos y apps <a class="fa fa-file-o" target="_blank" href="marketingapps.html"></a><br /> 
